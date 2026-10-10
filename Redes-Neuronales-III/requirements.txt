@@ -1,8 +1,0 @@
-numpy
-pandas
-matplotlib
-scikit-learn
-tensorflow
-# Optional PyTorch notebook
-torch
-torchvision
